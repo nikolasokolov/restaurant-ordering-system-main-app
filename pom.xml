@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<jjwt.version>0.6.0</jjwt.version>
-		<postgresql.version>42.2.5</postgresql.version>
+		<postgresql.version>42.7.11</postgresql.version>
 		<spring-cloud-starter-netflix-eureka-client>2.2.0.RELEASE</spring-cloud-starter-netflix-eureka-client>
 		<spring-cloud-starter-netflix-zuul>2.2.0.RELEASE</spring-cloud-starter-netflix-zuul>
 		<jasperreports-version>6.11.0</jasperreports-version>
